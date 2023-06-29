@@ -10,6 +10,7 @@ Step 3: Run QLSV.sql with SQL server management studio
 Step 4: Run database QLSV: 
 
 ![image](https://github.com/NguyenNhatTruong-6151071110/DO_AN_TTCM_QLSV/assets/82043933/d4d6dda9-09e6-452a-843a-c4747a57bf7a)
+
 Step 5 : Run the program on Visual Studio
 
 ![image](https://github.com/NguyenNhatTruong-6151071110/DO_AN_TTCM_QLSV/assets/82043933/a24613f6-26e4-4221-8053-1f319eb31107)
